@@ -9981,10 +9981,10 @@ M82 ;absolute extrusion mode
 M104 S0
 ;End of Gcode
 ;SETTING_3 {"extruder_quality": ["[general]\\nversion = 4\\nname = Standard Qual
-;SETTING_3 ity #2\\ndefinition = creality_ender3pro\\n\\n[metadata]\\nposition =
-;SETTING_3  0\\nquality_type = standard\\nsetting_version = 16\\ntype = quality_
-;SETTING_3 changes\\n\\n[values]\\ninfill_sparse_density = 100\\nmaterial_print_
+;SETTING_3 ity #2\\ndefinition = creality_ender3pro\\n\\n[metadata]\\ntype = qua
+;SETTING_3 lity_changes\\nquality_type = standard\\nsetting_version = 16\\nposit
+;SETTING_3 ion = 0\\n\\n[values]\\ninfill_sparse_density = 100\\nmaterial_print_
 ;SETTING_3 temperature = 205\\nretraction_speed = 40\\n\\n"], "global_quality": 
 ;SETTING_3 "[general]\\nversion = 4\\nname = Standard Quality #2\\ndefinition = 
-;SETTING_3 creality_base\\n\\n[metadata]\\nquality_type = standard\\nsetting_ver
-;SETTING_3 sion = 16\\ntype = quality_changes\\n\\n[values]\\n\\n"}
+;SETTING_3 creality_base\\n\\n[metadata]\\ntype = quality_changes\\nquality_type
+;SETTING_3  = standard\\nsetting_version = 16\\n\\n[values]\\n\\n"}

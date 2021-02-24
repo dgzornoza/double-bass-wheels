@@ -25900,11 +25900,11 @@ M84 X Y E ;Disable all steppers but Z
 M82 ;absolute extrusion mode
 M104 S0
 ;End of Gcode
-;SETTING_3 {"global_quality": "[general]\\nversion = 4\\nname = Low Quality #2\\
-;SETTING_3 ndefinition = creality_base\\n\\n[metadata]\\nquality_type = low\\nse
-;SETTING_3 tting_version = 16\\ntype = quality_changes\\n\\n[values]\\n\\n", "ex
-;SETTING_3 truder_quality": ["[general]\\nversion = 4\\nname = Low Quality #2\\n
-;SETTING_3 definition = creality_ender3pro\\n\\n[metadata]\\nquality_type = low\
-;SETTING_3 \nposition = 0\\nsetting_version = 16\\ntype = quality_changes\\n\\n[
-;SETTING_3 values]\\ninfill_sparse_density = 40\\nmaterial_print_temperature = 2
-;SETTING_3 05\\nretraction_speed = 40\\n\\n"]}
+;SETTING_3 {"extruder_quality": ["[general]\\nversion = 4\\nname = Low Quality #
+;SETTING_3 2\\ndefinition = creality_ender3pro\\n\\n[metadata]\\ntype = quality_
+;SETTING_3 changes\\nquality_type = low\\nsetting_version = 16\\nposition = 0\\n
+;SETTING_3 \\n[values]\\ninfill_sparse_density = 40\\nmaterial_print_temperature
+;SETTING_3  = 205\\nretraction_speed = 40\\n\\n"], "global_quality": "[general]\
+;SETTING_3 \nversion = 4\\nname = Low Quality #2\\ndefinition = creality_base\\n
+;SETTING_3 \\n[metadata]\\ntype = quality_changes\\nquality_type = low\\nsetting
+;SETTING_3 _version = 16\\n\\n[values]\\n\\n"}
